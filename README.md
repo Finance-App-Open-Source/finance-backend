@@ -8,8 +8,10 @@ docker-compose build
 ```
 docker-compose up
 ```
-#### enjoy!
-collaboration is appreciated we are constantly learning
+#### Enjoy!
+Collaboration is appreciated we are constantly learning
+
+Required dependencies: ruby,ruby on rails and docker.
 
 by: @backsoul and @inmortalregis
 
